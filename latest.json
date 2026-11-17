@@ -1,5 +1,10 @@
 {
   "version": "4.7.0",
   "pub_date": "2026-11-17T19:23:44Z",
-  "platforms": {}
+  "platforms": {
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScXh3WjVlQlpkSTRma1FKZVhYN1JFWTFxcGR4My9mNXNVRGpwVy8wdk8zMkdtS1Voc1hEZVhSUEJWM0kxOWt2NFBJZFlmYVEvS1hSQ1BRZUtKS0dXUUIrTzcrbkdXN2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQzOTc4CWZpbGU6V2lzZURhcnRzXzQuNy4wX2FtZDY0LmRlYgpsV2dpSG5TVXFMRU9hcWNKNkNYNE1CcEdzQko3VytXVzFQZ05kRjBzMWgwZXkxOVdhRC9uNlAvcVJnU2E1QVNzQlBCeGZKRUhUNmRCMnB0ZVhPMElCZz09Cg==",
+      "url": "https://github.com/WiseHit-OU/WiseDarts-releases/releases/download/v4.7.0/WiseDarts_4.7.0_amd64.deb"
+    }
+  }
 }
